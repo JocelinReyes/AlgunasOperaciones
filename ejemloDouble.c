@@ -19,7 +19,7 @@ int main (){
     int var3 = 2;
     int res = var1 * var2 * var3;
 //aqui estamos imprimiendo el resultado de la multiplicacion, junto a los valores utilizados a multiplicar
-    printf("El resultado de multiplicar %d * %d * %d es: %d", var1, var2, var3, res);
+    printf("El resultado de multiplicar %d * %d * %d es: %d", var1, var2, var3, res );
     printf("\n");
 //aqui estamos probando otra forma de hacer la multiplicacion y de igaul manera imprimir el resultado
     res= var1 * var2 * var3;
@@ -34,4 +34,6 @@ int main (){
     printf ("\n");
     system ("Pause");
     return 0;
+
+
 }
