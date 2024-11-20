@@ -10,7 +10,7 @@ int main(){
     printf("\n");
 
     res= var1 * var2 * var3;
-    printf("El resultado es: %d", res);
+    printf("El resultado es: %d", res); //resultado 2
 
     printf("\n");
     system("Pause");
